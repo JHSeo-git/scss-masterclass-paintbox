@@ -94,3 +94,21 @@ em {
     font-style: italic;
   }
 }
+
+.under-hero {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 80vh;
+  img {
+    height: 100%;
+    overflow: hidden;
+  }
+  .under-hero__content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3ede8;
+  }
+}
