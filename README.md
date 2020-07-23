@@ -4,7 +4,8 @@
 
 Practice to nomadcoder clone project
 
-- [https://paint-box.com/](https://paint-box.com/)
+- demo : https://jhseo-git.github.io/scss-masterclass-paintbox/
+- target site : [https://paint-box.com/](https://paint-box.com/)
 
 ## To Clone:
 
